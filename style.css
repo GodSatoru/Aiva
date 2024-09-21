@@ -1,0 +1,39 @@
+.img{
+    display: flex;
+  justify-content: center;
+  align-items: center; 
+  border: 3px solid;
+  margin: auto;
+  padding: auto;
+  margin-left: 145px;
+  margin-right:145px;
+  
+  
+}
+
+.oi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: cursive;
+}
+
+body{
+    background: url('Red.jpg') no-repeat center center fixed;
+    background-size: cover;
+    background-size: cover;
+    background-size: cover;
+} 
+
+.text{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.cihuy{
+text-align: center;
+    font-family: cursive;
+}
+
+.foto{
+    text-align: center;
+}
