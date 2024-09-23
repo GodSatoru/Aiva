@@ -2,7 +2,10 @@
     display: flex;
   justify-content: center;
   align-items: center; 
-  
+  margin: auto;
+  padding: auto;
+  margin-left: 145px;
+  margin-right:145px;
   
   
 }
@@ -15,9 +18,13 @@
 }
 
 body{
-    background: url('Red.jpg') no-repeat center center fixed;
+    background: url('Red.jpg') no-repeat;
+    padding: 15px;
+    background-position: center center;
     background-size: cover;
-    background-size: cover;
+    width: 100%;
+    height: 100% 
+    position: absolute;
 } 
 
 .text{
